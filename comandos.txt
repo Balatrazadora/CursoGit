@@ -5,3 +5,4 @@ git add <nombre de archivo> <.>
 git commit
 git status -s
 git log --oneline
+got commit --amend
